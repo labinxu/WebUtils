@@ -1,0 +1,3 @@
+[submodule "tinyhtml"]
+	path = tinyhtml
+	url = ./external/tinyhtml/
